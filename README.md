@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 markdown# Solana Bundle Bots
 
 A high-performance bundle transaction system for managing 20 wallets on Solana, with MEV protection, priority fee optimization, and a complete monitoring dashboard.
@@ -276,3 +277,6 @@ Transaction success rate
 Average bundle execution time
 Fee optimization savings
 Wallet balance efficiency
+=======
+# solana-bundle-bots
+>>>>>>> ea99aa24796a43cbbdddd92dd63e860c2403da75

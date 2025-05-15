@@ -1,0 +1,17 @@
+[package]
+name = "bundle-manager"
+version = "0.1.0"
+edition = "2021"
+description = "Solana program for managing bundled transactions across multiple wallets"
+authors = ["InoxxAIsource"]
+
+[features]
+no-entrypoint = []
+
+[dependencies]
+solana-program = "1.16.0"
+borsh = "0.10.3"
+thiserror = "1.0.40"
+
+[lib]
+crate-type = ["cdylib", "lib"]
